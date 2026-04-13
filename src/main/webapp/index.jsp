@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmailLLL</label>
+          <label>EmailLLL hakriii</label>
         </div>
         <div class="form-control">
           <input type="password" required />
