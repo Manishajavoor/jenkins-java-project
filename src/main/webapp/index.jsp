@@ -24,7 +24,7 @@
           <input type="password" required />
           <label>NIMAG YAK BEKUU?</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit">SWAGAT!!!</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
